@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<style type="text/css">
+body  {
+}
+</style>
+<link href="singlePageTemplate.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<body>
+
+<div id= "container">
+	
+<div class= "header"><img src="WebsiteHomepageOVER_01.jpg" width="88" height="120" alt=""/><img src="WebsiteHomepageOVER_02.jpg" width="936" height="120" alt=""/></div>
+
+
+<div class="column1"> content for c1 </div>
+
+<div class="column2"> content for c2</div>
+</div>
+
+<div class="footer"><img src="WebsiteHomepageOVER_04.jpg" width="111" height="73" alt=""/><img src="WebsiteHomepageOVER_05.jpg" width="86" height="73" alt=""/><img src="WebsiteHomepageOVER_06.jpg" width="85" height="73" alt=""/><img src="WebsiteHomepageOVER_07.jpg" width="65" height="73" alt=""/><img src="new_08.jpg" width="475" height="73" alt=""/><img src="WebsiteHomepageOVER_09.jpg" width="202" height="56" alt=""/><img src="WebsiteHomepageOVER_14.jpg" width="347" height="47" alt=""/><img src="new_15.jpg" width="475" height="47" alt=""/><img src="WebsiteHomepageOVER_10.jpg" width="21" height="64" alt=""/><img src="WebsiteHomepageOVER_11.jpg" width="28" height="64" alt=""/><img src="WebsiteHomepageOVER_12.jpg" width="30" height="64" alt=""/><img src="WebsiteHomepageOVER_13.jpg" width="123" height="64" alt=""/></div>
+
+
+
+</body>
+</html>

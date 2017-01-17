@@ -1,0 +1,371 @@
+@charset "UTF-8";
+
+#container {
+	width: 1030px;
+	height: 1700px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(WebsiteHomepageOVER_03.jpg);
+	
+}
+
+#image1 {
+	background:url(WebsiteHomepage_02.jpg);
+	margin-bottom: 50px;
+	width: 936px;
+	height: 120px;
+	float:right;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+}
+
+#image2 {
+	background:url(WebsiteHomepageOVERnew1_01.jpg);
+	width: 88px;
+	height: 120px;
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+}
+#image2:hover{
+	background:url(WebsiteHomepage_01.jpg);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+}
+.column0 {
+	width:1000px;
+	margin:10px;
+	height:40px;
+	margin-bottom: 50px;
+	float:left;
+}
+
+.column4 {
+	width:1000px;
+	height:200px;
+	float:left;
+	border: 1px #B2ACAC solid;
+	opacity: 1; 
+	filter: alpha(opacity=100);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+	margin-left:15px;
+	margin-top:70px;
+	background:url(infographics.png);
+}
+.column4:hover { opacity: 0.3; filter: alpha(opacity=30);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+} 
+
+.column1 {
+	width:320px;
+	height:600px;
+	float:left;
+	border: 1px #B2ACAC solid;
+	opacity: 1; 
+	filter: alpha(opacity=100);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+	margin-left:15px;
+	margin-top:70px;
+	background:url(Banner1under.jpg);
+}
+.column1:hover { opacity: 0.3; filter: alpha(opacity=30);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+} 
+
+
+.column2 {
+	width:320px;
+	height:600px;
+	float:left;
+	border: 1px #B2ACAC solid;
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+	margin-left:15px;
+	margin-top:70px;
+	background:url(Banner2under.jpg);
+}
+.column2:hover { opacity: 0.3; filter: alpha(opacity=30); 
+  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+} 
+
+.column3 {
+	width:320px;
+	height:600px;
+	float:left;
+	border: 1px #B2ACAC solid;
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+	margin-left:15px;
+	margin-top:70px;
+	background:url(Banner3under.jpg);
+}
+.column3:hover { opacity: 0.3; filter: alpha(opacity=30);
+	transition-duration: 0.3s;
+  	transition-timing-function: linear;
+    transition-delay: 0;
+}
+
+.column5 {
+	width:1000px;
+	height:200px;
+	float:left;
+	border: 1px #B2ACAC solid;
+	opacity: 1; 
+	filter: alpha(opacity=100);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+	margin-left:15px;
+	margin-top:70px;
+	background:url(illustratorimages.png);
+}
+.column5:hover { opacity: 0.3; filter: alpha(opacity=30);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+} 
+
+.column7 {
+	width:1000px;
+	height:200px;
+	float:left;
+	border: 1px #B2ACAC solid;
+	opacity: 1; 
+	filter: alpha(opacity=100);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+	margin-left:15px;
+	margin-top:70px;
+	background:url(compositeimages.png);
+}
+
+.column7:hover { opacity: 0.3; filter: alpha(opacity=30);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+} 
+
+.column8 {
+	width:1000px;
+	height:200px;
+	float:left;
+	border: 1px #B2ACAC solid;
+	opacity: 1; 
+	filter: alpha(opacity=100);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+	margin-left:15px;
+	margin-top:70px;
+	background:url(skillsrange.png);
+}
+
+.column8:hover { opacity: 0.3; filter: alpha(opacity=30);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+} 
+
+.column9 {
+	width:1000px;
+	height:200px;
+	float:left;
+	border: 1px #B2ACAC solid;
+	opacity: 1; 
+	filter: alpha(opacity=100);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+	margin-left:15px;
+	margin-top:70px;
+	background:url(halloweenposter.png);
+}
+
+.column9:hover { opacity: 0.3; filter: alpha(opacity=30);
+	transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0;
+} 
+.footer {
+	width:1030px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:1px;
+	height:140px;
+}
+
+#image3 {
+	background:url(WebsiteHomepageOVER_04.jpg);
+	width: 111px;
+	height: 73px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+
+}
+#image3:hover{
+	background:url(WebsiteHomepage_04.jpg);
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+}
+
+#image4 {
+	background:url(WebsiteHomepageOVER_05.jpg);
+	width: 86px;
+	height: 73px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+}
+#image4:hover{
+	background:url(WebsiteHomepage_05.jpg);
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+}
+
+#image5 {
+	background:url(WebsiteHomepageOVER_06.jpg);
+	width: 85px;
+	height: 73px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+
+}
+#image5:hover{
+	background:url(WebsiteHomepage_06.jpg);
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+}
+
+#image6 {
+	background:url(WebsiteHomepage_07.jpg);
+	width: 65px;
+	height: 73px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+
+}
+#image6:hover{
+	background:url(WebsiteHomepageOVER_07.jpg);
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+}
+
+#image7 {
+	background:url(WebsiteHomepage_08.jpg);
+	width: 475px;
+	height: 73px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+
+}
+#image8 {
+	background:url(WebsiteHomepage_09.jpg);
+	width: 202px;
+	height: 56px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+
+}
+
+#image9 {
+	background:url(WebsiteHomepage_14.jpg);
+	width: 347px;
+	height: 47px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+
+}
+
+#image10 {
+	background:url(WebsiteHomepage_15.jpg);
+	width: 475px;
+	height: 47px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+
+}
+
+#image11 {
+	background:url(WebsiteHomepageOVER_10.jpg);
+	width: 21px;
+	height: 64px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+
+}
+#image11:hover{
+	background:url(WebsiteHomepage_10.jpg);
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+}
+
+#image12 {
+	background:url(WebsiteHomepageOVER_11.jpg);
+	width: 28px;
+	height: 64px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+
+}
+#image12:hover{
+	background:url(WebsiteHomepage_11.jpg);
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+}
+
+#image13 {
+	background:url(WebsiteHomepageOVER_12.jpg);
+	width: 30px;
+	height: 64px;
+	float:left;
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+
+}
+#image13:hover{
+	background:url(WebsiteHomepage_12.jpg);
+	  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0;
+}
